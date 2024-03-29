@@ -1,0 +1,1848 @@
+{
+	"type": "FeatureCollection",
+	"name": "nucl_tot",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFORIA - Pôle Formation UIMM Rouen-Dieppe",
+				"adresse": "6 rue Auguste Houzeau BP 430",
+				"ville": "76500 Elbeuf",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0028902706581696,
+					49.28793528332556
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFORIA - Pôle Formation UIMM Rouen-Dieppe",
+				"adresse": "2 rue Charles Scherer",
+				"ville": "76240 Le Mesnil-Esnard",
+				"dip2": [
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS Électrotechnique",
+					"BTS maintenance des systèmes option A systèmes de production"
+				],
+				"dip3": [
+					"licence pro Metiers de l'industrie : conception et amelioration de processus et procedes industriels"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.146858243855819,
+					49.413935183140178
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFORIA - Pôle Formation UIMM Rouen-Dieppe",
+				"adresse": "19 rue d'Anjou",
+				"ville": "Le Mesnil-Esnard",
+				"dip2": [
+					"BTS Contrôle industriel et régulation automatique "
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.1490756,
+					49.41412
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFPA Normandie - Ifs",
+				"adresse": "Rue Anton Tchekhov Campus III",
+				"ville": "Ifs",
+				"dip2": [
+					"TP Technicien superieur de maintenance industrielle"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3521863,
+					49.148926
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFPA Normandie - Le Havre",
+				"adresse": "3 rue Maximilien de Robespierre",
+				"ville": "Le Havre",
+				"dip2": [
+					"TP Technicien superieur de maintenance industrielle"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.1693993,
+					49.513714
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "AFPA Normandie - Saint-Etienne-du-Rouvray",
+				"adresse": "135 rue du Madrillet",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip2": [
+					"TP Technicien superieur en automatique et informatique industrielle"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0732923,
+					49.39356
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Ass Les Gadelles - OGEC - CFA/CFC Jeanne d'Arc",
+				"adresse": "12 rue Auguste Dollfus",
+				"ville": "Le Havre",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.1057644,
+					49.49793
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Bâtiment CFA Normandie - Caen",
+				"adresse": "16 rue de la Cotonniere CS 45453 ZI Chemin Vert",
+				"ville": "14280 Caen",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3992795,
+					49.196
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Bâtiment CFA Normandie - Evreux",
+				"adresse": "1006 rue Jacquard CS 83501 ZI de la Madeleine",
+				"ville": "Evreux",
+				"dip2": [
+					"BTS Électrotechnique",
+					"BTS Fluides, énergies, domotique option A génie climatique et fluidique",
+					"BTS Fluides, énergies, domotique option B froid et conditionnement d'air"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.1341234,
+					49.002266
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Bâtiment CFA Normandie - Rouen Espace Lanfry",
+				"adresse": "1060 avenue Isaac Newton Technopole du Madrillet",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip2": [
+					"BTS maintenance des systèmes option B systèmes énergétiques et fluidiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0782005,
+					49.382977
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Builders Ecole d'ingénieurs - site de Caen ",
+				"adresse": "1 rue Pierre et Marie Curie, Campus 2",
+				"ville": "14610 Epron",
+				"dip5": [
+					"diplôme d'ingénieur de l'École supérieure d'ingénieurs des travaux de la construction de Caen"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.366205,
+					49.2163
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CCIT Portes de Normandie - CFA Ecoles Supérieures",
+				"adresse": "461 rue Henri Becquerel CS 50112 Parc d'Activites de la Foret",
+				"ville": "Evreux",
+				"dip3": [
+					"Responsable qualite securite-surete environnement"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.146467,
+					48.998077
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CESI - Caen",
+				"adresse": "4 place Boston Bat. Ambassadeur - Citis",
+				"ville": "Herouville-Saint-Clair",
+				"dip2": [
+					"Animateur qualite securite environnement"
+				],
+				"dip3": [
+					"Responsable qualite securite environnement"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3556183,
+					49.213417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CESI - Rouen",
+				"adresse": "80 rue Edmund Halley Rouen Madrillet Innovation",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip2": [
+					"Animateur qualite securite environnement"
+				],
+				"dip3": [
+					"Charge d'affaires BTP",
+					"Responsable qualite securite environnement"
+				],
+				"dip5": [
+					"Manager de la performance energetique"
+				],
+				"dip6": [
+					"mastère spé. Efficacité énergétique et environnementale (CESI Ecole d'ingénieurs)",
+					"mastère spé. Management de la sécurité et des risques industriels (CESI Ecole d'ingénieurs) "
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0751565,
+					49.382397
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CFAI GON - Pôle Formation UIMM - Caen",
+				"adresse": "12 rue Professeur Joseph Rousselot",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS Électrotechnique",
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.35911712,
+					49.208107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CFAI GON - Pôle Formation UIMM - Cherbourg-en-Cotentin",
+				"adresse": "avenue du General Koenig",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip2": [
+					"BTS Conception et industrialisation en construction navale",
+					"BTS Électrotechnique",
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.6011753,
+					49.633415
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CFAI GON - Pôle Formation UIMM - Damigny",
+				"adresse": "Pole Universitaire d'Alencon Campus de Damigny",
+				"ville": "Damigny",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production "
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.0571626,
+					48.445366
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "CFAI GON - Pôle Formation UIMM - Vire",
+				"adresse": "35 rue Maurice Duros Campus Techno-Sup",
+				"ville": "Vire Normandie",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production "
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.875344,
+					48.83994
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "École d'ingénieur de l'université de Caen - site de Caen",
+				"adresse": "Boulevard Maréchal Juin, Campus 2, CS 14032",
+				"ville": "Caen",
+				"dip5": [
+					"diplôme d'ingénieur de l'École d'ingénieurs de l'université de Caen spécialité mécatronique et systèmes embarqués"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.367629,
+					49.216202
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "École d'ingénieur de l'université de Caen - site de Cherbourg-en-Cotentin",
+				"adresse": "60 rue Max Pol Fouchet CS 20082 Site Universitaire de Cherbourg-Octeville",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip5": [
+					"diplôme d'ingénieur de l'École d'ingénieurs de l'université de Caen spécialité génie des systèmes industriels"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.6475343,
+					49.6334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Ecole nationale supérieure d'ingénieurs de Caen et centre de recherche",
+				"adresse": "6 boulevard Maréchal Juin, CS 45053",
+				"ville": "Caen",
+				"dip5": [
+					"diplôme d'ingénieur de l'École nationale supérieure d'ingénieurs de Caen spécialité génie physique et systèmes embarqués",
+					"diplôme d'ingénieur de l'École nationale supérieure d'ingénieurs de Caen spécialité matériaux-chimie"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.371933,
+					49.2143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Ecole Pigier Rouen",
+				"adresse": "24 place St Marc",
+				"ville": "Rouen",
+				"dip5": [
+					"ingénieur d'affaires"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.1017396,
+					49.438508
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "ESIGELEC - site de Rouen",
+				"adresse": "Avenue Galilée, Technopôle du Madrillet, BP 10024",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip3": [
+					"bachelor en sciences et ingénierie - maintenance des systèmes intelligents et connectés"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.07715,
+					49.3836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "FIM CCI Formation Normandie Granville",
+				"adresse": "68 rue Jean Monnet, CS 20109",
+				"ville": "Granville",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				],
+				"dip3": [
+					"licence pro Metiers de l'industrie : conception et amelioration de processus et procedes industriels"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.5894749,
+					48.840214
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Alain",
+				"adresse": "27 boulevard Mezeray BP 341",
+				"ville": "Alencon",
+				"dip2": [
+					"BTS Électrotechnique",
+					"BTS maintenance des systèmes option B systèmes énergétiques et fluidiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.0810558,
+					48.438847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Alexis de Tocqueville",
+				"adresse": "Avenue Henri Poincare",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS maintenance des systèmes option A systèmes de production",
+					"BTS Contrôle industriel et régulation automatique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.606899,
+					49.630234
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Charles Tellier",
+				"adresse": "Route de Vire",
+				"ville": "Conde-en-Normandie",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.5655931,
+					48.851433
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Claude Lehec",
+				"adresse": "16 rue Dauphine",
+				"ville": "Saint-Hilaire-du-Harcouet",
+				"dip2": [
+					"BTS Maintenance des matériels de construction et de manutention"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.101731,
+					48.573265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - CO'SUP",
+				"adresse": "53 rue Louis Pasteur",
+				"ville": "Mont-Saint-Aignan",
+				"dip5": [
+					"Ingenieur d'affaires"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.080406,
+					49.45869
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Delamare-Deboutteville",
+				"adresse": "5 rue Andre Bertrand",
+				"ville": "Forges-les-Eaux",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.5346507,
+					49.617374
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Dumont d'Urville",
+				"adresse": "130 rue de la Delivrande",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Architectures en metal : conception et realisation",
+					"BTS Conception et industrialisation en microtechniques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3596671,
+					49.196144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Emulation Dieppoise",
+				"adresse": "2 rue Stalingrad",
+				"ville": "Dieppe",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0824789,
+					49.916115
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Ferdinand Buisson",
+				"adresse": "6 rue Auguste Houzeau BP 430",
+				"ville": "76500 Elbeuf",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS Contrôle industriel et régulation automatique",
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.00225,
+					49.28773
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Guy de Maupassant",
+				"adresse": "1575 boulevard Nelson Mandela",
+				"ville": "Fecamp",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.3871094,
+					49.746555
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Jacques Prévert",
+				"adresse": "3 place Prevert",
+				"ville": "Pont-Audemer",
+				"dip2": [
+					"BTS Conception et industrialisation en microtechniques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.522403,
+					49.351257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Jean Baptiste Decrétot",
+				"adresse": "7 rue de la Gare",
+				"ville": "Louviers",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.156647,
+					49.209293
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Le Corbusier",
+				"adresse": "340 avenue de l'Universite",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip2": [
+					"BTS Fluides, énergies, domotique option A génie climatique et fluidique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.065345,
+					49.38697
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Louis-Modeste Leroy",
+				"adresse": "32 rue Pierre Brossolette",
+				"ville": "Evreux",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.164562,
+					49.02256
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Marcel Sembat",
+				"adresse": "128 rue Leon Salva",
+				"ville": "Sotteville-les-Rouen",
+				"dip2": [
+					"BTS Électrotechnique",
+					"BTS Motorisations toutes energies"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0851529,
+					49.415047
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Pablo Neruda",
+				"adresse": "Chemin des Bruyeres",
+				"ville": "Dieppe",
+				"dip2": "BTS Environnement nucléaire ",
+				"lat": 49.90653,
+				"long": 1.0701125
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0701125,
+					49.90653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Pablo Neruda",
+				"adresse": "Chemin des Bruyeres",
+				"ville": "Dieppe",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0701125,
+					49.90653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Risle-Seine",
+				"adresse": "Rue des Deportes",
+				"ville": "Pont-Audemer",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.520603,
+					49.353527
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IFPRA - Schuman-Perret",
+				"adresse": "51 avenue du 8 Mai 1945",
+				"ville": "Le Havre",
+				"dip2": [
+					"BTS Contrôle industriel et régulation automatique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.1642344,
+					49.515568
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Institut national des sciences appliquées de Rouen Normandie - site de Rouen",
+				"adresse": "685 avenue de l'université, BP 08",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip5": [
+					"diplôme d'ingénieur de l'Institut national des sciences appliquées de Rouen spécialité chimie et génie chimique",
+					"diplôme d'ingénieur de l'Institut national des sciences appliquées de Rouen spécialité génie civil et urbain en convention avec l'université du Havre",
+					"diplôme d'ingénieur de l'Institut national des sciences appliquées de Rouen spécialité génie des procédés et gestion des risques",
+					"diplôme d'ingénieur de l'Institut national des sciences appliquées de Rouen spécialité génie énergétique",
+					"master mention chimie parcours Analyse et spectrochimie | parcours Chimie organique pour le Vivant et la Santé | parcours Eur-xl-chem | parcours polymères, biomatériaux et écomatériaux",
+					"master mention énergie parcours Fluids-Transfer-Optic",
+					"master mention ingénierie de conception parcours fiabilité mécanique et optimisation | parcours mécanique des matériaux"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0663,
+					49.3867
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Institut national des sciences appliquées de Rouen Normandie - site du Havre",
+				"adresse": "73 rue Bellot, Campus Le Havre-Normandie",
+				"ville": "Le Havre",
+				"dip5": [
+					"diplôme d'ingénieur de l'Institut national des sciences appliquées de Rouen spécialité génie civil et urbain en convention avec l'université du Havre"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.126876,
+					49.48581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Institut national des sciences et techniques nucléaires",
+				"adresse": "143 Chemin de la Crespinière",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip2": [
+					"technicien supérieur en radioprotection"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.6502313,
+					49.632338
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Institut Supérieur Professionnel de Normandie - Caen",
+				"adresse": "6 avenue du Marechal Montgomery",
+				"ville": "Caen",
+				"dip5": [
+					"ingénieur d'affaires"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3869291,
+					49.202644
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Institut Supérieur Professionnel de Normandie - Cherbourg",
+				"adresse": "986 Jean Bouin Tourlaville",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip5": [
+					"ingénieur d'affaires"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.585678,
+					49.6337
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT d'Evreux",
+				"adresse": "55 rue Saint-Germain, CS 40486",
+				"ville": "Evreux",
+				"dip3": [
+					"BUT mesures physiques parcours techniques d'instrumentation"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.13514,
+					49.0177
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT du Havre",
+				"adresse": "rue Boris Vian, BP 4006",
+				"ville": "Le Havre",
+				"dip3": [
+					"BUT génie électrique et informatique industrielle parcours automatisme et informatique industrielle",
+					"BUT génie électrique et informatique industrielle parcours électricité et maîtrise de l'énergie",
+					"BUT hygiène sécurité environnement parcours science du danger et management des risques professionnels, technologiques et environnementaux",
+					"licence pro mention maintenance des systèmes industriels, de production et d'énergie parcours machines tournantes sous pression (MTP) | parcours maintenance des systèmes industriels et sureté du process (MISP)"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.162353,
+					49.5138
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Grand Ouest Normandie",
+				"adresse": "Rue Max Pol Fouchet, BP 82",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip3": [
+					"BUT génie électrique et informatique industrielle parcours automatisme et informatique industrielle",
+					"BUT génie industriel et maintenance parcours ingénierie des systèmes pluritechniques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.64591,
+					49.6354
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Grand Ouest Normandie - pôle de Caen, campus de Caen",
+				"adresse": "Boulevard Maréchal Juin",
+				"ville": "Caen",
+				"dip3": [
+					"BUT génie chimique, génie des procédés parcours contrôle, pilotage et optimisation des procédés",
+					"BUT mesures physiques parcours matériaux et contrôles physico-chimiques",
+					"BUT mesures physiques parcours techniques d'instrumentation"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.366089,
+					49.2123
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Grand Ouest Normandie - Pôle de Caen, campus de Vire Normandie",
+				"adresse": "rue des Nöes Davy",
+				"ville": "Vire Normandie",
+				"dip3": [
+					"BUT hygiène sécurité environnement parcours science du danger et management des risques professionnels, technologiques et environnementaux"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.87874,
+					48.8405975
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Grand Ouest Normandie - pôle de Cherbourg en Cotentin, campus de Cherbourg en Cotentin",
+				"adresse": "Rue Max Pol Fouchet, BP 82",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip3": [
+					"BUT génie électrique et informatique industrielle parcours automatisme et informatique industrielle",
+					"BUT génie industriel et maintenance parcours ingénierie des systèmes pluritechniques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.64591,
+					49.6354
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Grand Ouest Normandie - Pôle de Cherbourg en Cotentin, campus de St-Lô",
+				"adresse": "120 rue de l'Exode, Site de Bellevue",
+				"ville": "Saint-Lô",
+				"dip3": [
+					"BUT métiers de la transition et de l'efficacité énergétiques parcours optimisation énergétique pour le bâtiment et l'industrie"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.0899869,
+					49.1099618
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "IUT Rouen site de Mont-Saint-Aignan",
+				"adresse": "rue Lavoisier",
+				"ville": "Mont-Saint-Aignan",
+				"dip3": [
+					"BUT Chimie : Analyse, controle-qualite, environnement",
+					"BUT génie chimique, génie des procédés parcours contrôle, pilotage et optimisation des procédés",
+					"BUT génie chimique, génie des procédés parcours contrôle, qualité, environnement et sécurité des procédés",
+					"BUT génie électrique et informatique industrielle parcours automatisme et informatique industrielle",
+					"BUT génie électrique et informatique industrielle parcours électronique et systèmes embarqués",
+					"BUT mesures physiques parcours matériaux et contrôles physico-chimiques",
+					"BUT métiers de la transition et de l'efficacité énergétiques parcours optimisation énergétique pour le bâtiment et l'industrie",
+					"licence pro mention énergie et propulsion",
+					"licence pro mention énergie et propulsion parcours énergie et systèmes de mobilité durables"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.06974,
+					49.4596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "LT Privé La Châtaigneraie - CFC/CFA",
+				"adresse": "2 rue Charles Scherer",
+				"ville": "Le Mesnil-Esnard",
+				"dip2": [
+					"BTS Architectures en metal : conception et realisation",
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS Fluides, énergies, domotique option B froid et conditionnement d'air"
+				],
+				"dip3": [
+					"licence pro Domotique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.146579294111475,
+					49.41412887965317
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Alain",
+				"adresse": "27 boulevard Mézeray, BP 341",
+				"ville": "Alençon",
+				"dip2": [
+					"BTS maintenance des systèmes option B systèmes énergétiques et fluidiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.0808749,
+					48.4402
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Alexis de Tocqueville",
+				"adresse": "34 avenue Henri Poincaré, BP 308",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS Contrôle industriel et régulation automatique",
+					"BTS maintenance des systèmes option A systèmes de production <em>possibilité de convention avec la Marine nationale</em>"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.60596,
+					49.6297
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Claude Lehec",
+				"adresse": "rue Dauphine, BP 109",
+				"ville": "Saint-Hilaire-du-Harcouët",
+				"dip2": [
+					"BTS Maintenance des matériels de construction et de manutention"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.09865,
+					48.5724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Curie-Corot",
+				"adresse": "377 rue de l'Exode, BP 290",
+				"ville": "Saint-Lô",
+				"dip2": [
+					"BTS Conception et réalisation de systèmes automatiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.08897,
+					49.1082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Delamare-Deboutteville",
+				"adresse": "5 rue André Bertrand",
+				"ville": "Forges-les-Eaux",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.53555,
+					49.6174
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée des métiers Ferdinand Buisson",
+				"adresse": "6 rue Auguste Houzeau, BP 430",
+				"ville": "76500 Elbeuf",
+				"dip2": [
+					"BTS Conception et réalisation de systèmes automatiques",
+					"BTS Contrôle industriel et régulation automatique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0023814067958146,
+					49.28782565522125
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Galilée",
+				"adresse": "461 route de Belbeuf",
+				"ville": "Franqueville-Saint-Pierre",
+				"dip2": [
+					"BTS Bioanalyses et contrôles"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.16045,
+					49.397
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée général et technologique Institut Lemonnier",
+				"adresse": "60 rue d'Hérouville, CS 80269",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Conception et réalisation de systèmes automatiques",
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique",
+					"BTS Fluides, énergies, domotique option B froid et conditionnement d'air",
+					"BTS maintenance des systèmes option A systèmes de production"
+				],
+				"dip3": [
+					"licence pro mention systèmes automatisés, réseaux et informatique industrielle parcours conception et supervision des systèmes automatisés"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3505459,
+					49.1934891
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Georges Dumézil",
+				"adresse": "Route d'Ivry, BP 909",
+				"ville": "Vernon",
+				"dip2": [
+					"BTS Conception et réalisation de systèmes automatiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.46746,
+					49.0659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Guy de Maupassant",
+				"adresse": "1575 boulevard Nelson Mandela, BP 194",
+				"ville": "Fécamp",
+				"dip2": [
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.387601,
+					49.7463
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Jacques Prévert",
+				"adresse": "3 place Prévert",
+				"ville": "Pont-Audemer",
+				"dip2": [
+					"BTS Conception et industrialisation en microtechniques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.523881,
+					49.35
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Jean Moulin",
+				"adresse": "Rue Maréchal Foch, BP 515",
+				"ville": "Les Andelys",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.43409,
+					49.2494
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Jean Rostand",
+				"adresse": "98 route d'Ifs, CS 85457",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Bioanalyses et contrôles"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.352794,
+					49.1616
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Jules Verne",
+				"adresse": "12 rue Lucien Bossoutrot, BP 84",
+				"ville": "Mondeville",
+				"dip1": "MC Technicien(ne) en soudage ",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.327692,
+					49.1665
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Julliot de la Morandière",
+				"adresse": "12 rue de la Crête, BP 639",
+				"ville": "Granville",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.5789,
+					48.8295
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Laplace - Dumont d'Urville",
+				"adresse": "130 rue de la Délivrande, BP 75183",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Architectures en métal : conception et réalisation",
+					"BTS Conception et industrialisation en microtechniques",
+					"BTS Fluides, énergies, domotique option A génie climatique et fluidique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.35722,
+					49.1963
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Le Corbusier",
+				"adresse": "340 avenue de l'Université",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip2": [
+					"BTS Enveloppe des bâtiments : conception et réalisation",
+					"BTS Fluides, énergies, domotique option A génie climatique et fluidique",
+					"BTS Fluides, énergies, domotique option C domotique et bâtiments communicants"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.0663,
+					49.3867
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Léopold Sédar Senghor",
+				"adresse": "4 Esplanade du Canada",
+				"ville": "Evreux",
+				"dip2": [
+					"BTS Bioanalyses et contrôles"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.13808,
+					49.0101
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Louis-Modeste Leroy",
+				"adresse": "32 rue Pierre Brossolette, BP 1607",
+				"ville": "Evreux",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.16593,
+					49.022
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Marcel Sembat",
+				"adresse": "128 rue Léon Salva, BP 35",
+				"ville": "Sotteville-lès-Rouen",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.08537,
+					49.415
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Pablo Neruda",
+				"adresse": "Chemin des Bruyères, BP 232",
+				"ville": "Dieppe",
+				"dip2": [
+					"BTS Conception et industrialisation en microtechniques",
+					"BTS Conception et réalisation de systèmes automatiques",
+					"BTS Électrotechnique",
+					"BTS Environnement nucléaire "
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.06547,
+					49.9086
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Paul Cornu",
+				"adresse": "9 rue Paul Cornu, BP 27225",
+				"ville": "Lisieux",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.218877,
+					49.1627
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Pierre de Coubertin",
+				"adresse": "130 bis rue Georges Clemenceau, BP 50097",
+				"ville": "Bolbec",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS maintenance des systèmes option B systèmes énergétiques et fluidiques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.458863,
+					49.5646
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée privé Jeanne d'Arc - Site Coty",
+				"adresse": "1 place Germaine Coty",
+				"ville": "Le Havre",
+				"dip2": [
+					"BTS Électrotechnique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.11419190104994,
+					49.519485046645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée privé la Châtaigneraie",
+				"adresse": "2 rue Charles Scherer",
+				"ville": "Le Mesnil-Esnard",
+				"dip1": [
+					"MC Technicien en soudage"
+				],
+				"dip2": [
+					"BTS Architectures en métal : conception et réalisation",
+					"BTS Conception et réalisation de systèmes automatiques",
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Fluides, énergies, domotique option B froid et conditionnement d'air"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.1457746773978859,
+					49.41403636077195
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée professionnel Institut Lemonnier",
+				"adresse": "60 rue d'Herouville",
+				"ville": "Caen",
+				"dip2": [
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+					"BTS Électrotechnique",
+					"BTS Fluides, énergies, domotique option B froid et conditionnement d'air",
+					"BTS maintenance des systèmes option A systèmes de production",
+					"BTS Systemes numeriques option A informatique et réseaux"
+				],
+				"dip3": [
+					"licence pro Metiers de l'industrie : mecatronique, robotique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.35074705,
+					49.19305
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée professionnel Jean Jooris",
+				"adresse": "1 rue Salvador Allende, BP 20042",
+				"ville": "Dives-sur-Mer",
+				"dip1": [
+					"MC Technicien(ne) en soudage"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.0961868,
+					49.2796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Raymond Queneau",
+				"adresse": "Rue du Docteur Zamenhof, BP 143",
+				"ville": "Yvetot",
+				"dip2": [
+					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.769196,
+					49.6133
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Lycée Schuman-Perret",
+				"adresse": "51 avenue du 8 mai 1945",
+				"ville": "Le Havre",
+				"dip2": [
+					"BTS Conception et réalisation de systèmes automatiques",
+					"BTS Contrôle industriel et régulation automatique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.164394,
+					49.5156
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Open Campus de Caen",
+				"adresse": "4 rue Martin Luther King",
+				"ville": "Saint-Contest",
+				"dip2": [
+					"BTS Systemes numeriques option A informatique et réseaux"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3944833,
+					49.205082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Pôle formation UIMM Eure Seine Estuaire",
+				"adresse": "422 rue Henri Becquerel",
+				"ville": "Evreux",
+				"dip2": [
+					"BTS Conception et realisation de systemes automatiques",
+					"BTS Conception et réalisation en chaudronnerie industrielle ",
+					"BTS maintenance des systèmes option A systèmes de production "
+				],
+				"dip3": [
+					"licence pro Analyse, qualite et controle des materiaux produits ",
+					"licence pro mention maintenance des systèmes industriels, de production et d'énergie parcours maintenance des systèmes industriels et sureté du process",
+					"licence pro Metiers de l'industrie : conception et amelioration de processus et procedes industriels ",
+					"licence pro Metiers de l'industrie : mecatronique, robotique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.1465127,
+					48.99791
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Pôle formation UIMM Eure Seine Estuaire",
+				"adresse": "115 rue Desrame",
+				"ville": "Le Havre",
+				"dip2": [
+					"BTS Conception et réalisation en chaudronnerie industrielle",
+					"BTS Électrotechnique",
+					"BTS maintenance des systèmes option A systèmes de production"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.1035007,
+					49.521828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "Pôle formation UIMM Eure Seine Estuaire",
+				"adresse": "1 avenue Hubert Curien Campus de l'Espace",
+				"ville": "Vernon",
+				"dip5": [
+					"Diplôme d'ingénieur de l'institut national des sciences appliquees de Rouen, specialite informatique industrielle"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.4982117,
+					49.10828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "UFR de sciences - antenne de Cherbourg en Cotentin",
+				"adresse": "60 Rue Max Pol Fouchet",
+				"ville": "Cherbourg-en-Cotentin",
+				"dip3": [
+					"licence pro mention métiers de la radioprotection et de la sécurité nucléaire parcours métiers de la radioprotection et de la sécurité nucléaire option AGeDDEN (assainissement, gestion des déchets et du démantèlement en milieu nucléaire) | parcours métiers de la radioprotection et de la sécurité nucléaire option CRIATP (contrôle des rayonnements ionisants et application des techniques de protection) | parcours métiers de la radioprotection et de la sécurité nucléaire option MMN (maintenance en milieu nucléaire)"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.643332,
+					49.6356597
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "UFR des sciences",
+				"adresse": "Boulevard Maréchal Juin, Campus 2",
+				"ville": "Caen",
+				"dip3": [
+					"licence pro mention systèmes automatisés, réseaux et informatique industrielle parcours conception et supervision des systèmes automatisés"
+					],
+				"dip5": [
+					"master mention chimie parcours catalyse, environnement et développement durable | parcours chimie organique et interfaces | parcours contrôle de l'environnement industriel | parcours XL Chem",
+					"master mention physique parcours contrôle de l'environnement industriel | parcours noyaux, atomes, collisions | parcours radiation protection",
+					"master mention sciences de la matière parcours matériaux avancés pour l’énergie"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.383411,
+					49.2053
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "UFR des sciences et techniques",
+				"adresse": "25 rue Philippe Lebon, CS 80540",
+				"ville": "Le Havre",
+				"dip5": [
+					"master mention chimie des arômes, parfums, cosmétiques parcours arômes / parfums | parcours cosmétiques",
+					"master mention chimie parcours EUR XL CHEM",
+					"master mention électronique, énergie électrique, automatique parcours sûreté de fonctionnement des systèmes industriels | parcours systèmes énergétiques électriques",
+					"master mention énergie parcours energetics of complex fluids | parcours renewable energy",
+					"master mention génie civil parcours diagnostic et réhabilitation des architectures du quotidien | parcours énergétique du bâtiment | parcours génie civil et environnement | parcours génie portuaire, côtier et développement durable | parcours renewable energy in civil engineering",
+					"master mention gestion de l'environnement parcours risques et environnement"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.129114,
+					49.4959
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "UFR des sciences et techniques - site de Mont-Saint-Aignan",
+				"adresse": "Place Emile Blondel",
+				"ville": "Mont-Saint-Aignan",
+				"dip5": [
+					"master mention chimie ",
+					"master mention chimie parcours analyse et spectrochimie | parcours chimie organique pour le vivant et la santé | parcours polymères, biomatériaux et écomatériaux | parcours solid state and crystallization | parcours XL-Chem",
+					"master mention gestion de l'environnement parcours écologie et gestion des écosystèmes terrestres | parcours gestion durable des ressources et risques environnementaux | parcours responsable communication RSE | parcours sécurité des procédés industriels et maîtrise des risques"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.07195,
+					49.4582
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"etab": "UFR des sciences et techniques - site du Madrillet",
+				"adresse": "Avenue de l'Université",
+				"ville": "Saint-Etienne-du-Rouvray",
+				"dip5": [
+					"master mention énergie ",
+					"master mention énergie parcours fluids - transfer - optics | parcours maîtrise de l'énergie - génie thermique"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.06872,
+					49.3871
+				]
+			}
+		}
+	]
+}
