@@ -958,25 +958,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"etab": "IUT Grand Ouest Normandie",
-				"adresse": "Rue Max Pol Fouchet, BP 82",
-				"ville": "Cherbourg-en-Cotentin",
-				"dip3": [
-					"BUT génie électrique et informatique industrielle parcours automatisme et informatique industrielle",
-					"BUT génie industriel et maintenance parcours ingénierie des systèmes pluritechniques"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-1.64591,
-					49.6354
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"etab": "IUT Grand Ouest Normandie - pôle de Caen, campus de Caen",
 				"adresse": "Boulevard Maréchal Juin",
 				"ville": "Caen",
