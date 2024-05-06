@@ -1329,7 +1329,7 @@
 				"etab": "Lycée Jules Verne",
 				"adresse": "12 rue Lucien Bossoutrot, BP 84",
 				"ville": "Mondeville",
-				"dip1": "MC Technicien en soudage ",
+				"dip1": ["MC Technicien en soudage "],
 				"dip2": [
 					"BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
 					"BTS Électrotechnique"
