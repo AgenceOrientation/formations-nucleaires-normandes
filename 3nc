@@ -1,0 +1,20 @@
+"type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "etablissement": "AFORIA - Pôle Formation",
+      "adresse" : "centre ville",
+      "vill" : "Caen",
+      "formation" : ["BTS conception",
+                    "BUT BIM"]},
+      "geometry": {
+        "coordinates": [
+          -0.36479068626161393,
+          49.18290058805289
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
