@@ -8,7 +8,9 @@
       "adresse" : "centre ville",
       "vill" : "Caen",
       "formation" : ["BTS conception",
-                    "BUT BIM"]},
+                    "BUT BIM"
+                    ]
+                    },
       "geometry": {
         "coordinates": [
           -0.36479068626161393,
